@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>CoinSpice Milk</title>
+        <link>https://coinspice.io</link>
+        <language>en-us</language>
+        <copyright>&copy; 2018 CoinSpice</copyright>
+        <itunes:subtitle>subtitle</itunes:subtitle>
+        <itunes:author>C. EDWARD KELSO</itunes:author>
+        <itunes:summary>Love to get outdoors and discover nature&apos;s treasures? Hiking Treks is the show for you. We review hikes and excursions, review outdoor gear and interview a variety of naturalists and adventurers. Look for new episodes each week.</itunes:summary>
+        <description>Love to get outdoors and discover nature&apos;s treasures? Hiking Treks is the show for you. We review hikes and excursions, review outdoor gear and interview a variety of naturalists and adventurers. Look for new episodes each week.</description>
+        <itunes:type>serial</itunes:type>
+        <itunes:owner>
+            <itunes:name>CoinSpice</itunes:name>
+            <itunes:email>mountainscape@icloud.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="http://podcasts.apple.com/test/hiking/cover_art.png"/>
+        <itunes:category text="Sports &amp; Recreation">
+            <itunes:category text="Outdoor"/>
+        </itunes:category>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>no</itunes:explicit>
+
+        <!-- <item>
+            <itunes:episodeType>trailer</itunes:episodeType>
+            <itunes:title>Hiking Treks Trailer</itunes:title>
+            <title>Hiking Treks Trailer</title>
+            <itunes:author>The Sunset Adventurers</itunes:author>
+            <itunes:subtitle>The Sunset Explorers share tips, techniques and recommendations for great hikes and adventures around the United States.</itunes:subtitle>
+            <itunes:summary>The Sunset Explorers share tips, techniques and recommendations for great hikes and adventures around the United States.</itunes:summary>
+            <description>The Sunset Explorers share tips, techniques and recommendations for great hikes and adventures around the United States.</description>
+            <content:encoded><![CDATA[The Sunset Explorers share tips, techniques and recommendations for great hikes and adventures around the United States. Listen on <a href="http://apple.co/podcasts/">Apple Podcasts</a>]]>.</content:encoded>
+            <enclosure length="19429692" type="audio/mpeg" url="http://podcasts.apple.com/test/whitenoise.mp3"/>
+            <guid>http://example.com/podcasts/archive/aae20160418.mp3</guid>
+            <pubDate>Tue, 12 Apr 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>17:59</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item> -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Vin Armani: I Know Satoshi Nakamoto's True Identity</itunes:title>
+            <itunes:episode>1</itunes:episode>
+            <itunes:season>1</itunes:season>
+            <title>Vin Armani: I Know Satoshi Nakamoto's True Identity</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>Vin Armani of CoinText, Countermarkets, and the Showtime reality series Gigolos knows Satoshi Nakamoto's true identity. He discusses his research in-depth, and opens up about the importance of his groundbreaking platform CoinText to allow peer-to-peer digital cash to take over the world. Don't miss this episode.</itunes:summary>
+            <description>Vin Armani of CoinText, Countermarkets, and the Showtime reality series Gigolos knows Satoshi Nakamoto's true identity. He discusses his research in-depth, and opens up about the importance of his groundbreaking platform CoinText to allow peer-to-peer digital cash to take over the world. Don't miss this episode.</description>
+            <content:encoded>Vin Armani of CoinText, Countermarkets, and the Showtime reality series Gigolos knows Satoshi Nakamoto's true identity. He discusses his research in-depth, and opens up about the importance of his groundbreaking platform CoinText to allow peer-to-peer digital cash to take over the world. Don't miss this episode.</content:encoded>
+            <enclosure length="19429692" type="audio/mpeg" url="http://podcasts.apple.com/test/whitenoise.mp3?ep=upper"/>
+            <guid>http://example.com/podcasts/archive/aae20160418a.mp3</guid>
+            <pubDate>Wed, 24 Oct 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>32:21</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+    </channel>
+</rss>
