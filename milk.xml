@@ -6,17 +6,17 @@
         <language>en-us</language>
         <copyright>&copy; 2018 CoinSpice</copyright>
         <itunes:subtitle>subtitle</itunes:subtitle>
-        <itunes:author>C. EDWARD KELSO</itunes:author>
-        <itunes:summary>Love to get outdoors and discover nature&apos;s treasures? Hiking Treks is the show for you. We review hikes and excursions, review outdoor gear and interview a variety of naturalists and adventurers. Look for new episodes each week.</itunes:summary>
-        <description>Love to get outdoors and discover nature&apos;s treasures? Hiking Treks is the show for you. We review hikes and excursions, review outdoor gear and interview a variety of naturalists and adventurers. Look for new episodes each week.</description>
+        <itunes:author>C. Edward Kelso</itunes:author>
+        <itunes:summary>MILK, soothing crypto's burn, is a podcast hosted by C. Edward Kelso of CoinSpice, a feisty and fun crypto news organization. Listen for the very best in spicy cryptocurrency news, controversies, and guests.</itunes:summary>
+        <description>MILK, soothing crypto's burn, is a podcast hosted by C. Edward Kelso of CoinSpice, a feisty and fun crypto news organization. Listen for the very best in spicy cryptocurrency news, controversies, and guests.</description>
         <itunes:type>serial</itunes:type>
         <itunes:owner>
             <itunes:name>CoinSpice</itunes:name>
-            <itunes:email>mountainscape@icloud.com</itunes:email>
+            <itunes:email>corentin@mercier.link</itunes:email>
         </itunes:owner>
-        <itunes:image href="http://podcasts.apple.com/test/hiking/cover_art.png"/>
-        <itunes:category text="Sports &amp; Recreation">
-            <itunes:category text="Outdoor"/>
+        <itunes:image href="http://image.noelshack.com/fichiers/2018/45/6/1541868264-artwork.jpg"/>
+        <itunes:category text="Technology">
+            <itunes:category text="Technology"/>
         </itunes:category>
         <itunes:explicit>no</itunes:explicit>
         <itunes:explicit>no</itunes:explicit>
@@ -36,6 +36,26 @@
             <itunes:duration>17:59</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
         </item> -->
+
+        <!-- episode 2 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Bitcoin Emperor: BTC Sucks, Only Stupid People Fall for That</itunes:title>
+            <itunes:episode>2</itunes:episode>
+            <itunes:season>1</itunes:season>
+            <title>Bitcoin Emperor: BTC Sucks, Only Stupid People Fall for That</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>Bitcoin Emperor Daniel Krawisz is on fire in this episode of Milk, Soothing Crypto's Burn, flagship podcast for CoinSpice. Krawisz (pronounced Cray-Wits) describes his transition into supporting Bitcoin Cash (BCH), which he found a more vibrant, creative community after he was chastised by BTC cult members for even discussing BCH.</itunes:summary>
+            <description>Bitcoin Emperor Daniel Krawisz is on fire in this episode of Milk, Soothing Crypto's Burn, flagship podcast for CoinSpice. Krawisz (pronounced Cray-Wits) describes his transition into supporting Bitcoin Cash (BCH), which he found a more vibrant, creative community after he was chastised by BTC cult members for even discussing BCH.</description>
+            <content:encoded>Bitcoin Emperor Daniel Krawisz is on fire in this episode of Milk, Soothing Crypto's Burn, flagship podcast for CoinSpice. Krawisz (pronounced Cray-Wits) describes his transition into supporting Bitcoin Cash (BCH), which he found a more vibrant, creative community after he was chastised by BTC cult members for even discussing BCH.</content:encoded>
+            <enclosure length="19429692" type="audio/mpeg" url=""/>
+            <guid>http://example.com/podcasts/archive/aae20160418a.mp3</guid>
+            <pubDate>Thu, 25 Oct 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>9:54</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <!-- episode 1 -->
         <item>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:title>Vin Armani: I Know Satoshi Nakamoto's True Identity</itunes:title>
