@@ -15,8 +15,8 @@
             <itunes:email>corentin@mercier.link</itunes:email>
         </itunes:owner>
         <itunes:image href="http://image.noelshack.com/fichiers/2018/46/1/1541996306-artwork.jpg"/>
-        <itunes:category text="Technology, Finance">
-            <itunes:category text="Technology, Finance"/>
+        <itunes:category text="Technology">
+            <itunes:category text="Technology"/>
         </itunes:category>
         <itunes:explicit>no</itunes:explicit>
         <itunes:explicit>no</itunes:explicit>
