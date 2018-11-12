@@ -37,6 +37,42 @@
             <itunes:explicit>no</itunes:explicit>
         </item> -->
 
+        <!-- episode 4 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Bitcoin's Satoshi Nakamoto White Paper Turns 10 Years Old</itunes:title>
+            <itunes:episode>4</itunes:episode>
+            <itunes:season>1</itunes:season>
+            <title>Bitcoin's Satoshi Nakamoto White Paper Turns 10 Years Old</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>Happy anniversary, baby! The 31st of October of this year marks the tenth anniversary of the Bitcoin White Paper. CoinSpice gets views from four considerate figures in the space: Bitcoin's Emperor Daniel Krawisz, Derek Magill from tryPathly.com and the Nakamoto Studies Institute, founder and Editor-in-Chief of The Anti-Media, Nick Bernabe, and Vin Armani from CoinText and Countermarkets share their insights on what 10 years means, and what we might expect in the future.</itunes:summary>
+            <description>Happy anniversary, baby! The 31st of October of this year marks the tenth anniversary of the Bitcoin White Paper. CoinSpice gets views from four considerate figures in the space: Bitcoin's Emperor Daniel Krawisz, Derek Magill from tryPathly.com and the Nakamoto Studies Institute, founder and Editor-in-Chief of The Anti-Media, Nick Bernabe, and Vin Armani from CoinText and Countermarkets share their insights on what 10 years means, and what we might expect in the future.</description>
+            <content:encoded>Happy anniversary, baby! The 31st of October of this year marks the tenth anniversary of the Bitcoin White Paper. CoinSpice gets views from four considerate figures in the space: Bitcoin's Emperor Daniel Krawisz, Derek Magill from tryPathly.com and the Nakamoto Studies Institute, founder and Editor-in-Chief of The Anti-Media, Nick Bernabe, and Vin Armani from CoinText and Countermarkets share their insights on what 10 years means, and what we might expect in the future.</content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e4.mp3"/>
+            <guid>https://coinspice.io/milk/s1/e4.mp3</guid>
+            <pubDate>Sat, 27 Oct 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>8:48</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <!-- episode 3 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Derek Magill: Ayn Rand Would've Loved Crypto</itunes:title>
+            <itunes:episode>3</itunes:episode>
+            <itunes:season>1</itunes:season>
+            <title>Derek Magill: Ayn Rand Would've Loved Crypto</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>Derek Magill of tryPathly.com and the Nakamoto Studies Institute joins C. Edward Kelso to muse about their shared admiration for novelist and philosopher Ayn Rand, and how she would've loved crypto ... and probably would've ended up in Tokyo working with Roger Ver to promote Bitcoin Cash.</itunes:summary>
+            <description>Derek Magill of tryPathly.com and the Nakamoto Studies Institute joins C. Edward Kelso to muse about their shared admiration for novelist and philosopher Ayn Rand, and how she would've loved crypto ... and probably would've ended up in Tokyo working with Roger Ver to promote Bitcoin Cash.</description>
+            <content:encoded>Derek Magill of tryPathly.com and the Nakamoto Studies Institute joins C. Edward Kelso to muse about their shared admiration for novelist and philosopher Ayn Rand, and how she would've loved crypto ... and probably would've ended up in Tokyo working with Roger Ver to promote Bitcoin Cash.</content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e3.mp3"/>
+            <guid>https://coinspice.io/milk/s1/e3.mp3</guid>
+            <pubDate>Fri, 26 Oct 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>7:13</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
         <!-- episode 2 -->
         <item>
             <itunes:episodeType>full</itunes:episodeType>
