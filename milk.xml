@@ -14,9 +14,9 @@
             <itunes:name>CoinSpice</itunes:name>
             <itunes:email>corentin@mercier.link</itunes:email>
         </itunes:owner>
-        <itunes:image href="http://image.noelshack.com/fichiers/2018/45/6/1541868264-artwork.jpg"/>
-        <itunes:category text="Technology">
-            <itunes:category text="Technology"/>
+        <itunes:image href="http://image.noelshack.com/fichiers/2018/46/1/1541996306-artwork.jpg"/>
+        <itunes:category text="Technology, Finance">
+            <itunes:category text="Technology, Finance"/>
         </itunes:category>
         <itunes:explicit>no</itunes:explicit>
         <itunes:explicit>no</itunes:explicit>
@@ -49,8 +49,8 @@
             <itunes:summary>Bitcoin Emperor Daniel Krawisz is on fire in this episode of Milk, Soothing Crypto's Burn, flagship podcast for CoinSpice. Krawisz (pronounced Cray-Wits) describes his transition into supporting Bitcoin Cash (BCH), which he found a more vibrant, creative community after he was chastised by BTC cult members for even discussing BCH.</itunes:summary>
             <description>Bitcoin Emperor Daniel Krawisz is on fire in this episode of Milk, Soothing Crypto's Burn, flagship podcast for CoinSpice. Krawisz (pronounced Cray-Wits) describes his transition into supporting Bitcoin Cash (BCH), which he found a more vibrant, creative community after he was chastised by BTC cult members for even discussing BCH.</description>
             <content:encoded>Bitcoin Emperor Daniel Krawisz is on fire in this episode of Milk, Soothing Crypto's Burn, flagship podcast for CoinSpice. Krawisz (pronounced Cray-Wits) describes his transition into supporting Bitcoin Cash (BCH), which he found a more vibrant, creative community after he was chastised by BTC cult members for even discussing BCH.</content:encoded>
-            <enclosure length="19429692" type="audio/mpeg" url=""/>
-            <guid>http://example.com/podcasts/archive/aae20160418a.mp3</guid>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e2.mp3"/>
+            <guid>https://coinspice.io/milk/s1/e2.mp3</guid>
             <pubDate>Thu, 25 Oct 2018 01:15:00 PDT</pubDate>
             <itunes:duration>9:54</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
@@ -67,8 +67,8 @@
             <itunes:summary>Vin Armani of CoinText, Countermarkets, and the Showtime reality series Gigolos knows Satoshi Nakamoto's true identity. He discusses his research in-depth, and opens up about the importance of his groundbreaking platform CoinText to allow peer-to-peer digital cash to take over the world. Don't miss this episode.</itunes:summary>
             <description>Vin Armani of CoinText, Countermarkets, and the Showtime reality series Gigolos knows Satoshi Nakamoto's true identity. He discusses his research in-depth, and opens up about the importance of his groundbreaking platform CoinText to allow peer-to-peer digital cash to take over the world. Don't miss this episode.</description>
             <content:encoded>Vin Armani of CoinText, Countermarkets, and the Showtime reality series Gigolos knows Satoshi Nakamoto's true identity. He discusses his research in-depth, and opens up about the importance of his groundbreaking platform CoinText to allow peer-to-peer digital cash to take over the world. Don't miss this episode.</content:encoded>
-            <enclosure length="19429692" type="audio/mpeg" url="http://podcasts.apple.com/test/whitenoise.mp3?ep=upper"/>
-            <guid>http://example.com/podcasts/archive/aae20160418a.mp3</guid>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e1.mp3"/>
+            <guid>https://coinspice.io/milk/s1/e1.mp3</guid>
             <pubDate>Wed, 24 Oct 2018 01:15:00 PDT</pubDate>
             <itunes:duration>32:21</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
