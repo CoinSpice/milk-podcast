@@ -19,24 +19,80 @@
             <itunes:category text="Technology"/>
         </itunes:category>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:explicit>no</itunes:explicit>
 
-        <!-- <item>
-            <itunes:episodeType>trailer</itunes:episodeType>
-            <itunes:title>Hiking Treks Trailer</itunes:title>
-            <title>Hiking Treks Trailer</title>
-            <itunes:author>The Sunset Adventurers</itunes:author>
-            <itunes:subtitle>The Sunset Explorers share tips, techniques and recommendations for great hikes and adventures around the United States.</itunes:subtitle>
-            <itunes:summary>The Sunset Explorers share tips, techniques and recommendations for great hikes and adventures around the United States.</itunes:summary>
-            <description>The Sunset Explorers share tips, techniques and recommendations for great hikes and adventures around the United States.</description>
-            <content:encoded><![CDATA[The Sunset Explorers share tips, techniques and recommendations for great hikes and adventures around the United States. Listen on <a href="http://apple.co/podcasts/">Apple Podcasts</a>]]>.</content:encoded>
-            <enclosure length="19429692" type="audio/mpeg" url="http://podcasts.apple.com/test/whitenoise.mp3"/>
-            <guid>http://example.com/podcasts/archive/aae20160418.mp3</guid>
-            <pubDate>Tue, 12 Apr 2018 01:15:00 PDT</pubDate>
-            <itunes:duration>17:59</itunes:duration>
+
+        <!-- episode 8 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>China Divided on BCH Fork, Bitcoin Mining Booming</itunes:title>
+            <itunes:episode>8</itunes:episode>
+            <itunes:season>1</itunes:season>
+            <title>China Divided on BCH Fork, Bitcoin Mining Booming</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>Journalist, crypto expert Cindy Wang joins C. Edward Kelso for a very interesting episode of MILK. She is not only a gadfly who knows all the most important cryptocurrency players in China, she lives behind the Red Wall, and she is also a rebel. She discusses the upcoming Bitcoin Cash (BCH) fork and why she's worried, and how she deals with family and government pressure to stop working in crypto.</itunes:summary>
+            <description>Journalist, crypto expert Cindy Wang joins C. Edward Kelso for a very interesting episode of MILK. She is not only a gadfly who knows all the most important cryptocurrency players in China, she lives behind the Red Wall, and she is also a rebel. She discusses the upcoming Bitcoin Cash (BCH) fork and why she's worried, and how she deals with family and government pressure to stop working in crypto.</description>
+            <content:encoded>Journalist, crypto expert Cindy Wang joins C. Edward Kelso for a very interesting episode of MILK. She is not only a gadfly who knows all the most important cryptocurrency players in China, she lives behind the Red Wall, and she is also a rebel. She discusses the upcoming Bitcoin Cash (BCH) fork and why she's worried, and how she deals with family and government pressure to stop working in crypto.</content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e8.mp3"/>
+            <guid>https://coinspice.io/milk/s1/e8.mp3</guid>
+            <pubDate>Wed, 31 Oct 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>24:11</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-        </item> -->
-
+        </item>
+        <!-- episode 7 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Hyperbitcoinization Hijacked and Twisted, Explains Daniel Krawisz</itunes:title>
+            <itunes:episode>7</itunes:episode>
+            <itunes:season>1</itunes:season>
+            <title>Hyperbitcoinization Hijacked and Twisted, Explains Daniel Krawisz</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>Hyperbitcoinization, the concept invented by Daniel Krawisz, was ultimately perverted and changed by BTC cultists. In part 2 of a 4 part series, the Emperor of Bitcoin returns to set the record straight. It's a part of crypto history you're not going to want to miss. All rise!</itunes:summary>
+            <description>Hyperbitcoinization, the concept invented by Daniel Krawisz, was ultimately perverted and changed by BTC cultists. In part 2 of a 4 part series, the Emperor of Bitcoin returns to set the record straight. It's a part of crypto history you're not going to want to miss. All rise!</description>
+            <content:encoded>Hyperbitcoinization, the concept invented by Daniel Krawisz, was ultimately perverted and changed by BTC cultists. In part 2 of a 4 part series, the Emperor of Bitcoin returns to set the record straight. It's a part of crypto history you're not going to want to miss. All rise!</content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e7.mp3"/>
+            <guid>https://coinspice.io/milk/s1/e7.mp3</guid>
+            <pubDate>Tue, 30 Oct 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>12:10</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <!-- episode 6 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>No One Understands Bitcoin: CRYPTO WEEK IN REVIEW Oct 27 2018</itunes:title>
+            <itunes:episode>6</itunes:episode>
+            <itunes:season>1</itunes:season>
+            <title>No One Understands Bitcoin: CRYPTO WEEK IN REVIEW Oct 27 2018</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>CRYPTO WEEK IN REVIEW for October 27 2018 from CoinSpice.io ... this week, host C. Edward Kelso examines why no one understands Bitcoin, markets calming, China easing up on crypto, Binance in Singapore, Bitfury's IPO, Elon Musk, and more.</itunes:summary>
+            <description>CRYPTO WEEK IN REVIEW for October 27 2018 from CoinSpice.io ... this week, host C. Edward Kelso examines why no one understands Bitcoin, markets calming, China easing up on crypto, Binance in Singapore, Bitfury's IPO, Elon Musk, and more.</description>
+            <content:encoded>CRYPTO WEEK IN REVIEW for October 27 2018 from CoinSpice.io ... this week, host C. Edward Kelso examines why no one understands Bitcoin, markets calming, China easing up on crypto, Binance in Singapore, Bitfury's IPO, Elon Musk, and more.</content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e6.mp3"/>
+            <guid>https://coinspice.io/milk/s1/e6.mp3</guid>
+            <pubDate>Mon, 29 Oct 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>21:25</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <!-- episode 5 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Facebook, Twitter Purge Indy Media Accounts with 2 Million Followers</itunes:title>
+            <itunes:episode>5</itunes:episode>
+            <itunes:season>1</itunes:season>
+            <title>Facebook, Twitter Purge Indy Media Accounts with 2 Million Followers</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>On October 11, 2018, founder and Editor-in-Chief Nick Bernabe awoke to find five years of work and 2 million followers was purged, ghosted by Facebook and, later, Twitter. He joins C. Edward Kelso to give exclusive insight, making for a horrifying, maddening, and ultimately inspirational underdog story. Do not miss this.</itunes:summary>
+            <description>On October 11, 2018, founder and Editor-in-Chief Nick Bernabe awoke to find five years of work and 2 million followers was purged, ghosted by Facebook and, later, Twitter. He joins C. Edward Kelso to give exclusive insight, making for a horrifying, maddening, and ultimately inspirational underdog story. Do not miss this.</description>
+            <content:encoded>On October 11, 2018, founder and Editor-in-Chief Nick Bernabe awoke to find five years of work and 2 million followers was purged, ghosted by Facebook and, later, Twitter. He joins C. Edward Kelso to give exclusive insight, making for a horrifying, maddening, and ultimately inspirational underdog story. Do not miss this.</content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e5.mp3"/>
+            <guid>https://coinspice.io/milk/s1/e5.mp3</guid>
+            <pubDate>Sun, 28 Oct 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>47:05</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
         <!-- episode 4 -->
         <item>
             <itunes:episodeType>full</itunes:episodeType>
