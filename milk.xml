@@ -20,6 +20,25 @@
         </itunes:category>
         <itunes:explicit>no</itunes:explicit>
 
+        <!-- episode 19 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Milk S1E19 Shitcoin.com CEO and Founder Adreas Brekken: A Most Interesting Man in Crypto</itunes:title>
+            <itunes:episode>19</itunes:episode>
+            <itunes:season>1</itunes:season>
+            <title>Milk S1E19 Shitcoin.com CEO and Founder Adreas Brekken: A Most Interesting Man in Crypto</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>He's a most interesting man in crypto. He's CEO of Shitcoin.com, one of funniest and best read sites on the web. He's also guest for this special episode of Milk, the CoinSpice.io flagship podcast, with C. Edward Kelso.</itunes:summary>
+            <description>He's a most interesting man in crypto. He's CEO of Shitcoin.com, one of funniest and best read sites on the web. He's also guest for this special episode of Milk, the CoinSpice.io flagship podcast, with C. Edward Kelso.</description>
+            <content:encoded>He's a most interesting man in crypto. He's CEO of Shitcoin.com, one of funniest and best read sites on the web. He's also guest for this special episode of Milk, the CoinSpice.io flagship podcast, with C. Edward Kelso.</content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e19.mp3"/>
+            <guid>https://coinspice.io/milk/s1/e19.mp3</guid>
+            <pubDate>15 Nov 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>50:18</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
         <!-- episode 18 -->
         <item>
             <itunes:episodeType>full</itunes:episodeType>
