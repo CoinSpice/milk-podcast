@@ -76,6 +76,24 @@
             <itunes:explicit>no</itunes:explicit>
         </item>
 
+        <!-- episode 13 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Bitcoin a Religion? Daniel Krawisz Returns!</itunes:title>
+            <itunes:episode>13</itunes:episode>
+            <itunes:season>1</itunes:season>
+            <title>Bitcoin a Religion? Daniel Krawisz Returns!</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:summary>Emperor of Bitcoin Daniel Krawisz returns for this part 4/4, turning his attention to the religiosity of the Bitcoin Core (BTC) cult.</itunes:summary>
+            <description>Emperor of Bitcoin Daniel Krawisz returns for this part 4/4, turning his attention to the religiosity of the Bitcoin Core (BTC) cult.</description>
+            <content:encoded>Emperor of Bitcoin Daniel Krawisz returns for this part 4/4, turning his attention to the religiosity of the Bitcoin Core (BTC) cult.</content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e13.mp3"/>
+            <guid>https://coinspice.io/milk/s1/e13.mp3</guid>
+            <pubDate>8 Nov 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>10:03</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
         <!-- episode 12 -->
         <item>
             <itunes:episodeType>full</itunes:episodeType>
@@ -87,8 +105,8 @@
             <itunes:summary>The writings of Satoshi Nakamoto go well beyond the vaunted Bitcoin White Paper. There are emails and chats, along with commentaries from early players in the space that need to be preserved. Thankfully, they are. Derek Magill is founder, archivist of the Nakamoto Studies Institute, and he's guest for this fun episode of CoinSpice.io 's flagship podcast, Milk: Soothing Crypto's Burn with C. Edward Kelso, Editor-in-Chief.</itunes:summary>
             <description>The writings of Satoshi Nakamoto go well beyond the vaunted Bitcoin White Paper. There are emails and chats, along with commentaries from early players in the space that need to be preserved. Thankfully, they are. Derek Magill is founder, archivist of the Nakamoto Studies Institute, and he's guest for this fun episode of CoinSpice.io 's flagship podcast, Milk: Soothing Crypto's Burn with C. Edward Kelso, Editor-in-Chief.</description>
             <content:encoded>The writings of Satoshi Nakamoto go well beyond the vaunted Bitcoin White Paper. There are emails and chats, along with commentaries from early players in the space that need to be preserved. Thankfully, they are. Derek Magill is founder, archivist of the Nakamoto Studies Institute, and he's guest for this fun episode of CoinSpice.io 's flagship podcast, Milk: Soothing Crypto's Burn with C. Edward Kelso, Editor-in-Chief.</content:encoded>
-            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/12.mp3"/>
-            <guid>https://coinspice.io/milk/s1/12.mp3</guid>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e12.mp3"/>
+            <guid>https://coinspice.io/milk/s1/e12.mp3</guid>
             <pubDate>6 Nov 2018 01:15:00 PDT</pubDate>
             <itunes:duration>11:09</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
