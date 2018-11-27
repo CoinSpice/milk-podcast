@@ -20,6 +20,24 @@
         </itunes:category>
         <itunes:explicit>no</itunes:explicit>
 
+        <!-- episode 18 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Milk S1E18 Wall Street is Coming for Your Crypto: Caitlin Long and the Ecosystem's Future</itunes:title>
+            <itunes:episode>18</itunes:episode>
+            <itunes:season>1</itunes:season>
+            <title>Milk S1E18 Wall Street is Coming for Your Crypto: Caitlin Long and the Ecosystem's Future</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>Caitlin Long joins C. Edward Kelso to discuss her work in bridging the gap between crypto and Wall Street. A legacy financial world veteran, Long cautions against what institutional money might mean for the ecosystem's integrity. </itunes:summary>
+            <description>Caitlin Long joins C. Edward Kelso to discuss her work in bridging the gap between crypto and Wall Street. A legacy financial world veteran, Long cautions against what institutional money might mean for the ecosystem's integrity. </description>
+            <content:encoded>Caitlin Long joins C. Edward Kelso to discuss her work in bridging the gap between crypto and Wall Street. A legacy financial world veteran, Long cautions against what institutional money might mean for the ecosystem's integrity. </content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e18.mp3"/>
+            <guid>https://coinspice.io/milk/s1/e18.mp3</guid>
+            <pubDate>15 Nov 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>37:08</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
 
         <!-- episode 17 -->
         <item>
