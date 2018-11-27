@@ -20,6 +20,43 @@
         </itunes:category>
         <itunes:explicit>no</itunes:explicit>
 
+        <!-- episode 19 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Milk S1E19 Shitcoin.com CEO and Founder Adreas Brekken: A Most Interesting Man in Crypto</itunes:title>
+            <itunes:episode>19</itunes:episode>
+            <itunes:season>1</itunes:season>
+            <title>Milk S1E19 Shitcoin.com CEO and Founder Adreas Brekken: A Most Interesting Man in Crypto</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>He's a most interesting man in crypto. He's CEO of Shitcoin.com, one of funniest and best read sites on the web. He's also guest for this special episode of Milk, the CoinSpice.io flagship podcast, with C. Edward Kelso.</itunes:summary>
+            <description>He's a most interesting man in crypto. He's CEO of Shitcoin.com, one of funniest and best read sites on the web. He's also guest for this special episode of Milk, the CoinSpice.io flagship podcast, with C. Edward Kelso.</description>
+            <content:encoded>He's a most interesting man in crypto. He's CEO of Shitcoin.com, one of funniest and best read sites on the web. He's also guest for this special episode of Milk, the CoinSpice.io flagship podcast, with C. Edward Kelso.</content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e19.mp3"/>
+            <guid>https://coinspice.io/milk/s1/e19.mp3</guid>
+            <pubDate>15 Nov 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>50:18</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <!-- episode 18 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Milk S1E18 Wall Street is Coming for Your Crypto: Caitlin Long and the Ecosystem's Future</itunes:title>
+            <itunes:episode>18</itunes:episode>
+            <itunes:season>1</itunes:season>
+            <title>Milk S1E18 Wall Street is Coming for Your Crypto: Caitlin Long and the Ecosystem's Future</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>Caitlin Long joins C. Edward Kelso to discuss her work in bridging the gap between crypto and Wall Street. A legacy financial world veteran, Long cautions against what institutional money might mean for the ecosystem's integrity. </itunes:summary>
+            <description>Caitlin Long joins C. Edward Kelso to discuss her work in bridging the gap between crypto and Wall Street. A legacy financial world veteran, Long cautions against what institutional money might mean for the ecosystem's integrity. </description>
+            <content:encoded>Caitlin Long joins C. Edward Kelso to discuss her work in bridging the gap between crypto and Wall Street. A legacy financial world veteran, Long cautions against what institutional money might mean for the ecosystem's integrity. </content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e18.mp3"/>
+            <guid>https://coinspice.io/milk/s1/e18.mp3</guid>
+            <pubDate>15 Nov 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>37:08</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
 
         <!-- episode 17 -->
         <item>
@@ -72,7 +109,61 @@
             <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e15.mp3"/>
             <guid>https://coinspice.io/milk/s1/e15.mp3</guid>
             <pubDate>7 Nov 2018 01:15:00 PDT</pubDate>
-            <itunes:duration>26:31</itunes:duration>
+            <itunes:duration>42:51</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <!-- episode 14 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Troll Hunter Tips on How to be Effective</itunes:title>
+            <itunes:episode>14</itunes:episode>
+            <itunes:season>1</itunes:season>
+            <title>Troll Hunter Tips on How to be Effective</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:summary>Derek Magill of tryPathly.com and the Nakamoto Studies Institute is special guest on this episode of CoinSpice.io 's flagship podcast, Milk. He discusses his love of money from a young age, along with being famous in the ecosystem for taking down ugly trolls -- so effective, he was dubbed The Troll Hunter. </itunes:summary>
+            <description>Derek Magill of tryPathly.com and the Nakamoto Studies Institute is special guest on this episode of CoinSpice.io 's flagship podcast, Milk. He discusses his love of money from a young age, along with being famous in the ecosystem for taking down ugly trolls -- so effective, he was dubbed The Troll Hunter. </description>
+            <content:encoded>Derek Magill of tryPathly.com and the Nakamoto Studies Institute is special guest on this episode of CoinSpice.io 's flagship podcast, Milk. He discusses his love of money from a young age, along with being famous in the ecosystem for taking down ugly trolls -- so effective, he was dubbed The Troll Hunter. </content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e14.mp3"/>
+            <guid>https://coinspice.io/milk/s1/e14.mp3</guid>
+            <pubDate>10 Nov 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>13:05</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <!-- episode 13 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Bitcoin a Religion? Daniel Krawisz Returns!</itunes:title>
+            <itunes:episode>13</itunes:episode>
+            <itunes:season>1</itunes:season>
+            <title>Bitcoin a Religion? Daniel Krawisz Returns!</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:summary>Emperor of Bitcoin Daniel Krawisz returns for this part 4/4, turning his attention to the religiosity of the Bitcoin Core (BTC) cult.</itunes:summary>
+            <description>Emperor of Bitcoin Daniel Krawisz returns for this part 4/4, turning his attention to the religiosity of the Bitcoin Core (BTC) cult.</description>
+            <content:encoded>Emperor of Bitcoin Daniel Krawisz returns for this part 4/4, turning his attention to the religiosity of the Bitcoin Core (BTC) cult.</content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e13.mp3"/>
+            <guid>https://coinspice.io/milk/s1/e13.mp3</guid>
+            <pubDate>8 Nov 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>10:03</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <!-- episode 12 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Satoshi’s Bitcoin Writings Lovingly Preserved</itunes:title>
+            <itunes:episode>12</itunes:episode>
+            <itunes:season>1</itunes:season>
+            <title>Satoshi’s Bitcoin Writings Lovingly Preserved</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:summary>The writings of Satoshi Nakamoto go well beyond the vaunted Bitcoin White Paper. There are emails and chats, along with commentaries from early players in the space that need to be preserved. Thankfully, they are. Derek Magill is founder, archivist of the Nakamoto Studies Institute, and he's guest for this fun episode of CoinSpice.io 's flagship podcast, Milk: Soothing Crypto's Burn with C. Edward Kelso, Editor-in-Chief.</itunes:summary>
+            <description>The writings of Satoshi Nakamoto go well beyond the vaunted Bitcoin White Paper. There are emails and chats, along with commentaries from early players in the space that need to be preserved. Thankfully, they are. Derek Magill is founder, archivist of the Nakamoto Studies Institute, and he's guest for this fun episode of CoinSpice.io 's flagship podcast, Milk: Soothing Crypto's Burn with C. Edward Kelso, Editor-in-Chief.</description>
+            <content:encoded>The writings of Satoshi Nakamoto go well beyond the vaunted Bitcoin White Paper. There are emails and chats, along with commentaries from early players in the space that need to be preserved. Thankfully, they are. Derek Magill is founder, archivist of the Nakamoto Studies Institute, and he's guest for this fun episode of CoinSpice.io 's flagship podcast, Milk: Soothing Crypto's Burn with C. Edward Kelso, Editor-in-Chief.</content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e12.mp3"/>
+            <guid>https://coinspice.io/milk/s1/e12.mp3</guid>
+            <pubDate>6 Nov 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>11:09</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
         </item>
 
