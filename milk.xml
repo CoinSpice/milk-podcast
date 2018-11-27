@@ -72,7 +72,25 @@
             <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e15.mp3"/>
             <guid>https://coinspice.io/milk/s1/e15.mp3</guid>
             <pubDate>7 Nov 2018 01:15:00 PDT</pubDate>
-            <itunes:duration>26:31</itunes:duration>
+            <itunes:duration>42:51</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <!-- episode 14 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Troll Hunter Tips on How to be Effective</itunes:title>
+            <itunes:episode>14</itunes:episode>
+            <itunes:season>1</itunes:season>
+            <title>Troll Hunter Tips on How to be Effective</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:summary>Derek Magill of tryPathly.com and the Nakamoto Studies Institute is special guest on this episode of CoinSpice.io 's flagship podcast, Milk. He discusses his love of money from a young age, along with being famous in the ecosystem for taking down ugly trolls -- so effective, he was dubbed The Troll Hunter. </itunes:summary>
+            <description>Derek Magill of tryPathly.com and the Nakamoto Studies Institute is special guest on this episode of CoinSpice.io 's flagship podcast, Milk. He discusses his love of money from a young age, along with being famous in the ecosystem for taking down ugly trolls -- so effective, he was dubbed The Troll Hunter. </description>
+            <content:encoded>Derek Magill of tryPathly.com and the Nakamoto Studies Institute is special guest on this episode of CoinSpice.io 's flagship podcast, Milk. He discusses his love of money from a young age, along with being famous in the ecosystem for taking down ugly trolls -- so effective, he was dubbed The Troll Hunter. </content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e14.mp3"/>
+            <guid>https://coinspice.io/milk/s1/e14.mp3</guid>
+            <pubDate>10 Nov 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>13:05</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
         </item>
 
