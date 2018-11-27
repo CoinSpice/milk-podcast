@@ -75,11 +75,84 @@
             <itunes:duration>26:31</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
         </item>
+
+        <!-- episode 11 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Minds Blown: Daniel Krawisz and Bitcoin Stuff</itunes:title>
+            <itunes:episode>11</itunes:episode>
+            <itunes:season>1</itunes:season>
+            <title>Minds Blown: Daniel Krawisz and Bitcoin Stuff</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:summary>Emperor of Bitcoin, Daniel Krawisz, returns for another episode of the podcast Milk, from CoinSpice.io . This time, he explains his thinking behind creating one of the most influential YouTube shows in the ecosystem, Bitcoin Stuff. He and C. Edward Kelso discuss his mind-blowing take on how to navigate the murky waters of crypto.</itunes:summary>
+            <description>Emperor of Bitcoin, Daniel Krawisz, returns for another episode of the podcast Milk, from CoinSpice.io . This time, he explains his thinking behind creating one of the most influential YouTube shows in the ecosystem, Bitcoin Stuff. He and C. Edward Kelso discuss his mind-blowing take on how to navigate the murky waters of crypto.</description>
+            <content:encoded>Emperor of Bitcoin, Daniel Krawisz, returns for another episode of the podcast Milk, from CoinSpice.io . This time, he explains his thinking behind creating one of the most influential YouTube shows in the ecosystem, Bitcoin Stuff. He and C. Edward Kelso discuss his mind-blowing take on how to navigate the murky waters of crypto.</content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e11.mp3"/>
+            <guid>https://coinspice.io/milk/s1/e11.mp3</guid>
+            <pubDate>2 Nov 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>7:53</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <!-- episode 10 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Crypto Cannot Survive Fork? Let it Die!</itunes:title>
+            <itunes:episode>10</itunes:episode>
+            <itunes:season>1</itunes:season>
+            <title>Crypto Cannot Survive Fork? Let it Die!</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:summary>Derek Magill of tryPathly.com joins C. Edward Kelso again for a penetrating CoinSpice.io podcast episode of Milk. Magill is a bit of sage in the ecosystem. He hovers around the space, writes highly cited essays, and defends his position well. He is of the belief that money deserves a mind to match it. In other words, if cryptocurrency such as Bitcoin Cash (BCH) cannot survive a silly fork debate, then it deserves to fade away -- and he's very, very pro BCH!</itunes:summary>
+            <description>Derek Magill of tryPathly.com joins C. Edward Kelso again for a penetrating CoinSpice.io podcast episode of Milk. Magill is a bit of sage in the ecosystem. He hovers around the space, writes highly cited essays, and defends his position well. He is of the belief that money deserves a mind to match it. In other words, if cryptocurrency such as Bitcoin Cash (BCH) cannot survive a silly fork debate, then it deserves to fade away -- and he's very, very pro BCH!</description>
+            <content:encoded>Derek Magill of tryPathly.com joins C. Edward Kelso again for a penetrating CoinSpice.io podcast episode of Milk. Magill is a bit of sage in the ecosystem. He hovers around the space, writes highly cited essays, and defends his position well. He is of the belief that money deserves a mind to match it. In other words, if cryptocurrency such as Bitcoin Cash (BCH) cannot survive a silly fork debate, then it deserves to fade away -- and he's very, very pro BCH!</content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e10.mp3"/>
+            <guid>https://coinspice.io/milk/s1/e10.mp3</guid>
+            <pubDate>2 Nov 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>13:01</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <!-- episode 9 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>ANYPAY.Global Beta Integrates CoinText for Free Crypto POS Without Internet</itunes:title>
+            <itunes:episode>9</itunes:episode>
+            <itunes:season>1</itunes:season>
+            <title>ANYPAY.Global Beta Integrates CoinText for Free Crypto POS Without Internet</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:summary>Derrick J. Freeman is guest for this episode, here to discuss the exciting goings on of ANYPAY.global, a free crypto POS app.</itunes:summary>
+            <description>Derrick J. Freeman is guest for this episode, here to discuss the exciting goings on of ANYPAY.global, a free crypto POS app.</description>
+            <content:encoded>Derrick J. Freeman is guest for this episode, here to discuss the exciting goings on of ANYPAY.global, a free crypto POS app.</content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e9.mp3"/>
+            <guid>https://coinspice.io/milk/s1/e9.mp3</guid>
+            <pubDate>2 Nov 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>42:14</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
         <!-- episode 8 -->
         <item>
             <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>China Divided on BCH Fork, Bitcoin Mining Booming</itunes:title>
+            <itunes:title>The Blockchain and the New Architecture of Trust</itunes:title>
             <itunes:episode>8</itunes:episode>
+            <itunes:season>1</itunes:season>
+            <title>The Blockchain and the New Architecture of Trust</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:summary>Kevin Werbach shows how a technology resting on foundations of mutual mistrust can become trustworthy.The blockchain entered the world on January 3, 2009, introducing an innovative new trust architecture: an environment in which users trust a system—for example, a shared ledger of information—without necessarily trusting any of its components.</itunes:summary>
+            <description>Kevin Werbach shows how a technology resting on foundations of mutual mistrust can become trustworthy.The blockchain entered the world on January 3, 2009, introducing an innovative new trust architecture: an environment in which users trust a system—for example, a shared ledger of information—without necessarily trusting any of its components.</description>
+            <content:encoded>Kevin Werbach shows how a technology resting on foundations of mutual mistrust can become trustworthy.The blockchain entered the world on January 3, 2009, introducing an innovative new trust architecture: an environment in which users trust a system—for example, a shared ledger of information—without necessarily trusting any of its components.</content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e8.mp3"/>
+            <guid>https://coinspice.io/milk/s1/e8.mp3</guid>
+            <pubDate>2 Nov 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>42:14</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <!-- episode 7 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>China Divided on BCH Fork, Bitcoin Mining Booming</itunes:title>
+            <itunes:episode>7</itunes:episode>
             <itunes:season>1</itunes:season>
             <title>China Divided on BCH Fork, Bitcoin Mining Booming</title>
             <itunes:author>C. Edward Kelso</itunes:author>
@@ -87,17 +160,17 @@
             <itunes:summary>Journalist, crypto expert Cindy Wang joins C. Edward Kelso for a very interesting episode of MILK. She is not only a gadfly who knows all the most important cryptocurrency players in China, she lives behind the Red Wall, and she is also a rebel. She discusses the upcoming Bitcoin Cash (BCH) fork and why she's worried, and how she deals with family and government pressure to stop working in crypto.</itunes:summary>
             <description>Journalist, crypto expert Cindy Wang joins C. Edward Kelso for a very interesting episode of MILK. She is not only a gadfly who knows all the most important cryptocurrency players in China, she lives behind the Red Wall, and she is also a rebel. She discusses the upcoming Bitcoin Cash (BCH) fork and why she's worried, and how she deals with family and government pressure to stop working in crypto.</description>
             <content:encoded>Journalist, crypto expert Cindy Wang joins C. Edward Kelso for a very interesting episode of MILK. She is not only a gadfly who knows all the most important cryptocurrency players in China, she lives behind the Red Wall, and she is also a rebel. She discusses the upcoming Bitcoin Cash (BCH) fork and why she's worried, and how she deals with family and government pressure to stop working in crypto.</content:encoded>
-            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e8.mp3"/>
-            <guid>https://coinspice.io/milk/s1/e8.mp3</guid>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e7.mp3"/>
+            <guid>https://coinspice.io/milk/s1/e7.mp3</guid>
             <pubDate>Wed, 31 Oct 2018 01:15:00 PDT</pubDate>
             <itunes:duration>24:11</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
         </item>
-        <!-- episode 7 -->
+        <!-- episode 6 -->
         <item>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:title>Hyperbitcoinization Hijacked and Twisted, Explains Daniel Krawisz</itunes:title>
-            <itunes:episode>7</itunes:episode>
+            <itunes:episode>6</itunes:episode>
             <itunes:season>1</itunes:season>
             <title>Hyperbitcoinization Hijacked and Twisted, Explains Daniel Krawisz</title>
             <itunes:author>C. Edward Kelso</itunes:author>
@@ -105,28 +178,10 @@
             <itunes:summary>Hyperbitcoinization, the concept invented by Daniel Krawisz, was ultimately perverted and changed by BTC cultists. In part 2 of a 4 part series, the Emperor of Bitcoin returns to set the record straight. It's a part of crypto history you're not going to want to miss. All rise!</itunes:summary>
             <description>Hyperbitcoinization, the concept invented by Daniel Krawisz, was ultimately perverted and changed by BTC cultists. In part 2 of a 4 part series, the Emperor of Bitcoin returns to set the record straight. It's a part of crypto history you're not going to want to miss. All rise!</description>
             <content:encoded>Hyperbitcoinization, the concept invented by Daniel Krawisz, was ultimately perverted and changed by BTC cultists. In part 2 of a 4 part series, the Emperor of Bitcoin returns to set the record straight. It's a part of crypto history you're not going to want to miss. All rise!</content:encoded>
-            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e7.mp3"/>
-            <guid>https://coinspice.io/milk/s1/e7.mp3</guid>
-            <pubDate>Tue, 30 Oct 2018 01:15:00 PDT</pubDate>
-            <itunes:duration>12:10</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-        </item>
-        <!-- episode 6 -->
-        <item>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>No One Understands Bitcoin: CRYPTO WEEK IN REVIEW Oct 27 2018</itunes:title>
-            <itunes:episode>6</itunes:episode>
-            <itunes:season>1</itunes:season>
-            <title>No One Understands Bitcoin: CRYPTO WEEK IN REVIEW Oct 27 2018</title>
-            <itunes:author>C. Edward Kelso</itunes:author>
-            <itunes:subtitle></itunes:subtitle>
-            <itunes:summary>CRYPTO WEEK IN REVIEW for October 27 2018 from CoinSpice.io ... this week, host C. Edward Kelso examines why no one understands Bitcoin, markets calming, China easing up on crypto, Binance in Singapore, Bitfury's IPO, Elon Musk, and more.</itunes:summary>
-            <description>CRYPTO WEEK IN REVIEW for October 27 2018 from CoinSpice.io ... this week, host C. Edward Kelso examines why no one understands Bitcoin, markets calming, China easing up on crypto, Binance in Singapore, Bitfury's IPO, Elon Musk, and more.</description>
-            <content:encoded>CRYPTO WEEK IN REVIEW for October 27 2018 from CoinSpice.io ... this week, host C. Edward Kelso examines why no one understands Bitcoin, markets calming, China easing up on crypto, Binance in Singapore, Bitfury's IPO, Elon Musk, and more.</content:encoded>
             <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e6.mp3"/>
             <guid>https://coinspice.io/milk/s1/e6.mp3</guid>
-            <pubDate>Mon, 29 Oct 2018 01:15:00 PDT</pubDate>
-            <itunes:duration>21:25</itunes:duration>
+            <pubDate>Tue, 30 Oct 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>12:10</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
         </item>
         <!-- episode 5 -->
@@ -162,7 +217,7 @@
             <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e4.mp3"/>
             <guid>https://coinspice.io/milk/s1/e4.mp3</guid>
             <pubDate>Sat, 27 Oct 2018 01:15:00 PDT</pubDate>
-            <itunes:duration>8:48</itunes:duration>
+            <itunes:duration>8:38</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
         </item>
         <!-- episode 3 -->
