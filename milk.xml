@@ -20,6 +20,25 @@
         </itunes:category>
         <itunes:explicit>no</itunes:explicit>
 
+        <!-- episode 20 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Milk S1E20 Crypto Artist Sneaks Into Scotland's National Portrait Gallery</itunes:title>
+            <itunes:episode>20</itunes:episode>
+            <itunes:season>1</itunes:season>
+            <title>Milk S1E20 Crypto Artist Sneaks Into Scotland's National Portrait Gallery</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary>Trevor Jones snuck into the Scottish National Portrait Gallery after years of frustration. There, he and a few friends wound up creating an impromptu Augmented Reality crypto art exhibit. It’s revolutionary and great fun. He and C. Edward Kelso chat about it in a fun episode. </itunes:summary>
+            <description>Trevor Jones snuck into the Scottish National Portrait Gallery after years of frustration. There, he and a few friends wound up creating an impromptu Augmented Reality crypto art exhibit. It’s revolutionary and great fun. He and C. Edward Kelso chat about it in a fun episode. </description>
+            <content:encoded>Trevor Jones snuck into the Scottish National Portrait Gallery after years of frustration. There, he and a few friends wound up creating an impromptu Augmented Reality crypto art exhibit. It’s revolutionary and great fun. He and C. Edward Kelso chat about it in a fun episode. </content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e20.mp3"/>
+            <guid>https://coinspice.io/milk/s1/e20.mp3</guid>
+            <pubDate>28 Nov 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>32:50</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
         <!-- episode 19 -->
         <item>
             <itunes:episodeType>full</itunes:episodeType>
@@ -34,7 +53,7 @@
             <content:encoded>He's a most interesting man in crypto. He's CEO of Shitcoin.com, one of funniest and best read sites on the web. He's also guest for this special episode of Milk, the CoinSpice.io flagship podcast, with C. Edward Kelso.</content:encoded>
             <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e19.mp3"/>
             <guid>https://coinspice.io/milk/s1/e19.mp3</guid>
-            <pubDate>15 Nov 2018 01:15:00 PDT</pubDate>
+            <pubDate>27 Nov 2018 01:15:00 PDT</pubDate>
             <itunes:duration>50:18</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
         </item>
@@ -53,7 +72,7 @@
             <content:encoded>Caitlin Long joins C. Edward Kelso to discuss her work in bridging the gap between crypto and Wall Street. A legacy financial world veteran, Long cautions against what institutional money might mean for the ecosystem's integrity. </content:encoded>
             <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e18.mp3"/>
             <guid>https://coinspice.io/milk/s1/e18.mp3</guid>
-            <pubDate>15 Nov 2018 01:15:00 PDT</pubDate>
+            <pubDate>20 Nov 2018 01:15:00 PDT</pubDate>
             <itunes:duration>37:08</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
         </item>
@@ -90,7 +109,7 @@
             <content:encoded>Just hours from the Bitcoin Cash Hard Fork, and everyone seems terrified about this new era the ecosystem is entering: hash wars, etc. Jeffrey Tucker, longtime crypto philosopher and economist, evangelist, respected voice in the space, joins C. Edward Kelso for a special edition of Milk, CoinSpice.io 's flagship podcast. Listen, and get calm.</content:encoded>
             <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e16.mp3"/>
             <guid>https://coinspice.io/milk/s1/e16.mp3</guid>
-            <pubDate>14 Nov 2018 01:15:00 PDT</pubDate>
+            <pubDate>13 Nov 2018 01:15:00 PDT</pubDate>
             <itunes:duration>26:31</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
         </item>
@@ -108,7 +127,7 @@
             <content:encoded>The Bitcoin Cash (BCH) tribe, as genius developer Gabriel Cardona likes to term the crypto subculture, is at a turning point. He graciously gave a ton of his time from Bitcoin.com offices in Tokyo, Japan to explain the landscape as he sees it, his personal background, Bitbox, Wormhole, tokenization, and the future of one of the world's most popular cryptocurrencies.</content:encoded>
             <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s1/e15.mp3"/>
             <guid>https://coinspice.io/milk/s1/e15.mp3</guid>
-            <pubDate>7 Nov 2018 01:15:00 PDT</pubDate>
+            <pubDate>11 Nov 2018 01:15:00 PDT</pubDate>
             <itunes:duration>42:51</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
         </item>
