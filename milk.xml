@@ -20,6 +20,26 @@
         </itunes:category>
         <itunes:explicit>no</itunes:explicit>
 
+        <!-- ########################## SEASON 2 ########################## -->
+        <!-- episode 1 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Milk S2E1 Naomi Brockwell: Crypto Needs Taylor Swift</itunes:title>
+            <itunes:episode>1</itunes:episode>
+            <itunes:season>2</itunes:season>
+            <title>Milk S2E1 Naomi Brockwell: Crypto Needs Taylor Swift</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:summary>Naomi Brockwell is the first guest for CoinSpice.io 's podcast, Milk, and its second season. Brockwell is one of the most insightful personalities in the space: she knows everyone, and if you want to get a sense of where the ecosystem is at, she would be the person to ask.</itunes:summary>
+            <description>Naomi Brockwell is the first guest for CoinSpice.io 's podcast, Milk, and its second season. Brockwell is one of the most insightful personalities in the space: she knows everyone, and if you want to get a sense of where the ecosystem is at, she would be the person to ask.</description>
+            <content:encoded>Naomi Brockwell is the first guest for CoinSpice.io 's podcast, Milk, and its second season. Brockwell is one of the most insightful personalities in the space: she knows everyone, and if you want to get a sense of where the ecosystem is at, she would be the person to ask.</content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s2/e1.mp3"/>
+            <guid>https://coinspice.io/milk/s2/e1.mp3</guid>
+            <pubDate>11 Dec 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>31:43</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <!-- ########################## SEASON 1 ########################## -->
         <!-- episode 20 -->
         <item>
             <itunes:episodeType>full</itunes:episodeType>
