@@ -21,6 +21,24 @@
         <itunes:explicit>no</itunes:explicit>
 
         <!-- ########################## SEASON 2 ########################## -->
+        <!-- episode 2 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Milk S2E1 Claire Boyle: McSweeny's Genius Surveillance Collab with EFF</itunes:title>
+            <itunes:episode>2</itunes:episode>
+            <itunes:season>2</itunes:season>
+            <title>Milk S2E1 Claire Boyle: McSweeny's Genius Surveillance Collab with EFF</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:summary>C. Edward Kelso snagged Timothy McSweeney's Quarterly Concern Managing Editor Claire Boyle for a stimulating discussion about the literary mag's collaboration with EFF on the subject of the growing surveillance state.</itunes:summary>
+            <description>C. Edward Kelso snagged Timothy McSweeney's Quarterly Concern Managing Editor Claire Boyle for a stimulating discussion about the literary mag's collaboration with EFF on the subject of the growing surveillance state.</description>
+            <content:encoded>C. Edward Kelso snagged Timothy McSweeney's Quarterly Concern Managing Editor Claire Boyle for a stimulating discussion about the literary mag's collaboration with EFF on the subject of the growing surveillance state.</content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s2/e2.mp3"/>
+            <guid>https://coinspice.io/milk/s2/e2.mp3</guid>
+            <pubDate>16 Dec 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>35:47</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
         <!-- episode 1 -->
         <item>
             <itunes:episodeType>full</itunes:episodeType>
