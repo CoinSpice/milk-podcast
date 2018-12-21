@@ -21,6 +21,24 @@
         <itunes:explicit>no</itunes:explicit>
 
         <!-- ########################## SEASON 2 ########################## -->
+        <!-- episode 3 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Milk S2E3 SciFi Legend Dr. David Brin: Cheaters, Transparency, and How ICOs Avoid Jail</itunes:title>
+            <itunes:episode>3</itunes:episode>
+            <itunes:season>2</itunes:season>
+            <title>Milk S2E3 SciFi Legend Dr. David Brin: Cheaters, Transparency, and How ICOs Avoid Jail</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:summary>Season 2 of Milk keeps rocking, and three episodes in listeners meet the mind of science fiction legend, Dr. David Brin. Astrophysicist, pundit, world renowned author, and philosopher, Brin is a pretty amazing interview. He tackles the crypto space and issues of state surveillance in an entirely different manner, as I hope you'll hear.</itunes:summary>
+            <description>Season 2 of Milk keeps rocking, and three episodes in listeners meet the mind of science fiction legend, Dr. David Brin. Astrophysicist, pundit, world renowned author, and philosopher, Brin is a pretty amazing interview. He tackles the crypto space and issues of state surveillance in an entirely different manner, as I hope you'll hear.</description>
+            <content:encoded>Season 2 of Milk keeps rocking, and three episodes in listeners meet the mind of science fiction legend, Dr. David Brin. Astrophysicist, pundit, world renowned author, and philosopher, Brin is a pretty amazing interview. He tackles the crypto space and issues of state surveillance in an entirely different manner, as I hope you'll hear.</content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s2/e3.mp3"/>
+            <guid>https://coinspice.io/milk/s2/e3.mp3</guid>
+            <pubDate>21 Dec 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>34:25</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
         <!-- episode 2 -->
         <item>
             <itunes:episodeType>full</itunes:episodeType>
