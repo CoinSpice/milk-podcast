@@ -21,6 +21,24 @@
         <itunes:explicit>no</itunes:explicit>
 
         <!-- ########################## SEASON 2 ########################## -->
+        <!-- episode 4 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Milk S2E4 Dayna Martin</itunes:title>
+            <itunes:episode>4</itunes:episode>
+            <itunes:season>2</itunes:season>
+            <title>Milk S2E4 Dayna Martin</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:summary>Sure to sell out, Anarchapulco is upon us, and Milk snagged producer Dayna Martin to discuss the coming gathering, its speakers, and some of the new offerings. Martin is a well-known personality, having developed Unschooling, the process of breaking away from government education, in addition to her work as a midwife. She's also a really interesting interview, as she discusses her love of crypto and why the subject matter is slowly taking over the very popular four day event. </itunes:summary>
+            <description>Sure to sell out, Anarchapulco is upon us, and Milk snagged producer Dayna Martin to discuss the coming gathering, its speakers, and some of the new offerings. Martin is a well-known personality, having developed Unschooling, the process of breaking away from government education, in addition to her work as a midwife. She's also a really interesting interview, as she discusses her love of crypto and why the subject matter is slowly taking over the very popular four day event. </description>
+            <content:encoded>Sure to sell out, Anarchapulco is upon us, and Milk snagged producer Dayna Martin to discuss the coming gathering, its speakers, and some of the new offerings. Martin is a well-known personality, having developed Unschooling, the process of breaking away from government education, in addition to her work as a midwife. She's also a really interesting interview, as she discusses her love of crypto and why the subject matter is slowly taking over the very popular four day event. </content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s2/e4.mp3"/>
+            <guid>https://coinspice.io/milk/s2/e4.mp3</guid>
+            <pubDate>23 Dec 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>34:52</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
         <!-- episode 3 -->
         <item>
             <itunes:episodeType>full</itunes:episodeType>
