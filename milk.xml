@@ -24,6 +24,24 @@
         <!-- episode 4 -->
         <item>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Milk S2E5 PeacefulWarrior.cash</itunes:title>
+            <itunes:episode>5</itunes:episode>
+            <itunes:season>2</itunes:season>
+            <title>Milk S2E5 PeacefulWarrior.cash</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:summary>We managed to snag all three members of Peaceful Warrior, a really cool crypto adoption team focusing on women. They sell jewelry with crypto themes, but they also work with businesses, meetups, and online marketing to get the word out. A fun, fascinating episode with a cool look at crypto in East Asia.</itunes:summary>
+            <description>We managed to snag all three members of Peaceful Warrior, a really cool crypto adoption team focusing on women. They sell jewelry with crypto themes, but they also work with businesses, meetups, and online marketing to get the word out. A fun, fascinating episode with a cool look at crypto in East Asia.</description>
+            <content:encoded>We managed to snag all three members of Peaceful Warrior, a really cool crypto adoption team focusing on women. They sell jewelry with crypto themes, but they also work with businesses, meetups, and online marketing to get the word out. A fun, fascinating episode with a cool look at crypto in East Asia.</content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s2/e5.mp3"/>
+            <guid>https://coinspice.io/milk/s2/e5.mp3</guid>
+            <pubDate>24 Dec 2018 01:15:00 PDT</pubDate>
+            <itunes:duration>49:47</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <!-- episode 4 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
             <itunes:title>Milk S2E4 Dayna Martin</itunes:title>
             <itunes:episode>4</itunes:episode>
             <itunes:season>2</itunes:season>
