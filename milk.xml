@@ -21,7 +21,25 @@
         <itunes:explicit>no</itunes:explicit>
 
         <!-- ########################## SEASON 2 ########################## -->
-        <!-- episode 4 -->
+        <!-- episode 6 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Milk S2E6 Mark Lamb CEO CoinFLEX</itunes:title>
+            <itunes:episode>6</itunes:episode>
+            <itunes:season>2</itunes:season>
+            <title>Milk S2E6 Mark Lamb CEO CoinFLEX</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:summary>Physically delivered Bitcoin Futures just might become a reality, and relatively soon. New exchange CoinFLEX is set to operate only in fiat, looking to make its mark on the growing Asian retail market. CEO Mark Lamb explains the project in detail.</itunes:summary>
+            <description>Physically delivered Bitcoin Futures just might become a reality, and relatively soon. New exchange CoinFLEX is set to operate only in fiat, looking to make its mark on the growing Asian retail market. CEO Mark Lamb explains the project in detail.</description>
+            <content:encoded>Physically delivered Bitcoin Futures just might become a reality, and relatively soon. New exchange CoinFLEX is set to operate only in fiat, looking to make its mark on the growing Asian retail market. CEO Mark Lamb explains the project in detail.</content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s2/e6.wav"/>
+            <guid>https://coinspice.io/milk/s2/e6.wav</guid>
+            <pubDate>11 Jan 2019 01:15:00 PDT</pubDate>
+            <itunes:duration>31:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <!-- episode 5 -->
         <item>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:title>Milk S2E5 PeacefulWarrior.cash</itunes:title>
