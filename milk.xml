@@ -21,6 +21,24 @@
         <itunes:explicit>no</itunes:explicit>
 
         <!-- ########################## SEASON 2 ########################## -->
+        <!-- episode 7 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>S2E7 David Gerard</itunes:title>
+            <itunes:episode>7</itunes:episode>
+            <itunes:season>2</itunes:season>
+            <title>S2E7 David Gerard</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:summary>Crypto hater David Gerard, author of Attack of the 50ft Blockchain, is guest on this episode of Milk. He’s an important voice in the community, even if he thinks the entire thing is a colossal waste of time, and worse. Love him or not, he’s worth considering.</itunes:summary>
+            <description>Crypto hater David Gerard, author of Attack of the 50ft Blockchain, is guest on this episode of Milk. He’s an important voice in the community, even if he thinks the entire thing is a colossal waste of time, and worse. Love him or not, he’s worth considering.</description>
+            <content:encoded>Crypto hater David Gerard, author of Attack of the 50ft Blockchain, is guest on this episode of Milk. He’s an important voice in the community, even if he thinks the entire thing is a colossal waste of time, and worse. Love him or not, he’s worth considering.</content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s2/e7.mp3"/>
+            <guid>https://coinspice.io/milk/s2/e7.mp3</guid>
+            <pubDate>11 Jan 2019 01:15:00 PDT</pubDate>
+            <itunes:duration>50:13</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
         <!-- episode 6 -->
         <item>
             <itunes:episodeType>full</itunes:episodeType>
