@@ -21,6 +21,24 @@
         <itunes:explicit>no</itunes:explicit>
 
         <!-- ########################## SEASON 2 ########################## -->
+        <!-- episode 8 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>S2E8 Paul Puey</itunes:title>
+            <itunes:episode>8</itunes:episode>
+            <itunes:season>2</itunes:season>
+            <title>S2E8 Paul Puey</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:summary>The cryptocurrency market is in tailspin: major projects are folding, prices are tanking, folks are losing their jobs by the boatload. It’s a unique time for many in the space, and everyone is looking less for bomb-throwers and more for sane, solid analysis. Paul Puey, CEO of Edge Wallet, is the exact right guy to give you the straight view among crypto ruin and devastation.</itunes:summary>
+            <description>The cryptocurrency market is in tailspin: major projects are folding, prices are tanking, folks are losing their jobs by the boatload. It’s a unique time for many in the space, and everyone is looking less for bomb-throwers and more for sane, solid analysis. Paul Puey, CEO of Edge Wallet, is the exact right guy to give you the straight view among crypto ruin and devastation.</description>
+            <content:encoded>The cryptocurrency market is in tailspin: major projects are folding, prices are tanking, folks are losing their jobs by the boatload. It’s a unique time for many in the space, and everyone is looking less for bomb-throwers and more for sane, solid analysis. Paul Puey, CEO of Edge Wallet, is the exact right guy to give you the straight view among crypto ruin and devastation.</content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s2/e8.mp3"/>
+            <guid>https://coinspice.io/milk/s2/e8.mp3</guid>
+            <pubDate>15 Jan 2019 01:15:00 PDT</pubDate>
+            <itunes:duration>37:06</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
         <!-- episode 7 -->
         <item>
             <itunes:episodeType>full</itunes:episodeType>
