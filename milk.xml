@@ -21,6 +21,24 @@
         <itunes:explicit>no</itunes:explicit>
 
         <!-- ########################## SEASON 2 ########################## -->
+        <!-- episode 9 -->
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>S2E9 Emin Gün Sirer</itunes:title>
+            <itunes:episode>9</itunes:episode>
+            <itunes:season>2</itunes:season>
+            <title>S2E9 Emin Gün Sirer</title>
+            <itunes:author>C. Edward Kelso</itunes:author>
+            <itunes:summary>Post contentious hard fork and chain split, the Bitcoin Cash community is beginning to debate consensus protocols and the future of block propagation. Avalanche has emerged as a possible contender, and even more debate continues about Proof of Work versus Proof of Stake and various hybrids. Cornell University professor Emin Gün Sirer explains it all on this very thought provoking episode.</itunes:summary>
+            <description>Post contentious hard fork and chain split, the Bitcoin Cash community is beginning to debate consensus protocols and the future of block propagation. Avalanche has emerged as a possible contender, and even more debate continues about Proof of Work versus Proof of Stake and various hybrids. Cornell University professor Emin Gün Sirer explains it all on this very thought provoking episode.</description>
+            <content:encoded>Post contentious hard fork and chain split, the Bitcoin Cash community is beginning to debate consensus protocols and the future of block propagation. Avalanche has emerged as a possible contender, and even more debate continues about Proof of Work versus Proof of Stake and various hybrids. Cornell University professor Emin Gün Sirer explains it all on this very thought provoking episode.</content:encoded>
+            <enclosure type="audio/mpeg" url="https://coinspice.io/milk/s2/e9.mp3"/>
+            <guid>https://coinspice.io/milk/s2/e9.mp3</guid>
+            <pubDate>17 Jan 2019 01:15:00 PDT</pubDate>
+            <itunes:duration>44:14</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
         <!-- episode 8 -->
         <item>
             <itunes:episodeType>full</itunes:episodeType>
