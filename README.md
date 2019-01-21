@@ -1,6 +1,5 @@
-# CoinSpice Milk Podcast
+# CoinSpice Podcast
 
-![Milk](artwork.jpg)
+![CoinSpice Podcast](artwork.jpg)
 
-MILK, soothing crypto's burn, is a podcast hosted by C. Edward Kelso of CoinSpice, a feisty and fun crypto news organization. Listen for the very best in spicy cryptocurrency news, controversies, and guests.
-
+CoinSpice Podcast, hosted by C. Edward Kelso, is a feisty and fun crypto news organization. Listen for the very best in spicy cryptocurrency news, controversies, and guests.
